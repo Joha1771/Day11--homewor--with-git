@@ -1,3 +1,1 @@
-# Day11--homewor--with-git
-
-it is forst day using github
+it is for day using github
